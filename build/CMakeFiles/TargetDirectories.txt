@@ -1,0 +1,3 @@
+C:/Users/Lopes/RssExample/build/CMakeFiles/RssExample.dir
+C:/Users/Lopes/RssExample/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lopes/RssExample/build/CMakeFiles/ZERO_CHECK.dir
